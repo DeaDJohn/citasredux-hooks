@@ -2,7 +2,7 @@
 
 Proyecto en el que he usado los [Hooks](https://es.reactjs.org/docs/hooks-intro.html), [React-Redux](https://es.redux.js.org/docs/basico/uso-con-react.html) y [React-Redux](https://es.redux.js.org/)
 
-
+Si quieres echar un ojo de como funciona esta app puedes cotillear [AQUI](https://jj-citas-redux-hooks.netlify.com/)
 
 
 
